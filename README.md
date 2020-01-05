@@ -1,2 +1,2 @@
 # github-upload
-A part of The GitHub Learn Lab.
+A part of The GitHub Learning Lab.
